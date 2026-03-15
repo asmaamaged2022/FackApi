@@ -1,0 +1,76 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "name": "Basketball Shoes",
+      "images": ["1-1.png", "1-2.png", "1-3.png", "1-4.png"],
+      "sizes": ["M", "L"],
+      "colors": ["#fff", "#000"],
+      "price": 179.99,
+      "discount": 0.16,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "name": "Peak DH3 Mens",
+      "images": ["2-1.png", "2-2.png", "2-3.png", "2-4.png"],
+      "sizes": ["S", "M"],
+      "colors": ["#ADD8E6", "#9400D3"],
+      "price": 158.55,
+      "discount": 0.18,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "name": "Fun-Running VII",
+      "images": ["3-1.png", "3-2.png", "3-3.png", "3-4.png"],
+      "sizes": ["M", "L"],
+      "colors": ["#fff", "#E92E30", "#000"],
+      "price": 146.55,
+      "discount": 0.20,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+
+  "latest": [
+    {
+      "id": 17,
+      "name": "New Nike Black Airmax Shoes",
+      "images": ["17-1.png", "17-2.png", "17-3.png", "17-4.png"],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["#000"],
+      "price": 120,
+      "discount": 0,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 18,
+      "name": "New Nike White Airmax Shoes",
+      "images": ["18-1.png", "18-2.png", "18-3.png", "18-4.png"],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["#fff"],
+      "price": 140,
+      "discount": 0.2,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 19,
+      "name": "New Nike Mix Airmax Shoes",
+      "images": ["19-1.png", "19-2.png", "19-3.png", "19-4.png"],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["#fff"],
+      "price": 160,
+      "discount": 0.2,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+
+  "products": [
+    { "id": 1, "name": "Basketball Shoes", "price": 179.99 },
+    { "id": 2, "name": "Peak DH3 Mens", "price": 158.55 },
+    { "id": 3, "name": "Fun-Running VII", "price": 146.55 },
+    { "id": 17, "name": "New Nike Black Airmax Shoes", "price": 120 },
+    { "id": 18, "name": "New Nike White Airmax Shoes", "price": 140 },
+    { "id": 19, "name": "New Nike Mix Airmax Shoes", "price": 160 }
+  ]
+}
