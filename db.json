@@ -3,32 +3,32 @@
     {
       "id": "u1",
       "name": "Harry Potter",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user1.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user1.jpeg"
     },
     {
       "id": "u2",
       "name": "Ginny Weasley",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user2.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user2.jpeg"
     },
     {
       "id": "u3",
       "name": "Hermione Granger",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user3.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user3.jpeg"
     },
     {
       "id": "u4",
       "name": "Severus Snape",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user4.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user4.jpeg"
     },
     {
       "id": "u5",
       "name": "Albus Dumbledore",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user5.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user5.jpeg"
     },
     {
       "id": "u6",
       "name": "Ron Weasley",
-      "avatar": "https://asmaamaged2022.github.io//FackApi/user6.jpeg"
+      "avatar": "https://asmaamaged2022.github.io//FackApi/user_todolist/user6.jpeg"
     }
   ]
 }
