@@ -1,32 +1,34 @@
-[
-  {
-    "id": "u1",
-    "name": "Harry Potter",
-    "avatar": "user1.jpeg"
-  },
-  {
-    "id": "u2",
-    "name": "Ginny Weasley",
-    "avatar": "user2.jpeg"
-  },
-  {
-    "id": "u3",
-    "name": "Hermione Granger",
-    "avatar": "user3.jpeg"
-  },
-  {
-    "id": "u4",
-    "name": "Severus Snape",
-    "avatar": "user4.jpeg"
-  },
-  {
-    "id": "u5",
-    "name": "Albus Dumbledore",
-    "avatar": "user5.jpeg"
-  },
-  {
-    "id": "u6",
-    "name": "Ron Weasley",
-    "avatar": "user6.jpeg"
-  }
-]
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Harry Potter",
+      "avatar": "user1.jpeg"
+    },
+    {
+      "id": "u2",
+      "name": "Ginny Weasley",
+      "avatar": "user2.jpeg"
+    },
+    {
+      "id": "u3",
+      "name": "Hermione Granger",
+      "avatar": "user3.jpeg"
+    },
+    {
+      "id": "u4",
+      "name": "Severus Snape",
+      "avatar": "user4.jpeg"
+    },
+    {
+      "id": "u5",
+      "name": "Albus Dumbledore",
+      "avatar": "user5.jpeg"
+    },
+    {
+      "id": "u6",
+      "name": "Ron Weasley",
+      "avatar": "user6.jpeg"
+    }
+  ]
+}
